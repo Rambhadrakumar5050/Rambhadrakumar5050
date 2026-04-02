@@ -1,11 +1,10 @@
-# Rambhadra-kumar
 <h1 align="center">Hi 👋, I'm Rambhadra Kumar</h1>
 <h3 align="center">Building Cognitive Systems | LLM · RAG · Agentic AI · GenAI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rambhadra-kumar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/Rambhadra-kumar">
-    <img src="https://img.shields.io/github/followers/Rambhadra-kumar?label=Follow&style=social" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Rambhadrakumar5050&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Rambhadrakumar5050">
+    <img src="https://img.shields.io/github/followers/Rambhadrakumar5050?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
 </p>
 
@@ -26,7 +25,7 @@ I don't just use models; I build **agents**, design **RAG pipelines**, and exper
 > Machine Learning · Deep Learning · LLM Fine-tuning · RAG · Agentic Workflows · GenAI
 
 📫 **How to reach me:**  
-> [rambhadra@iiitvadodara.ac.in](mailto:rambhadra@iiitvododara.ac.in) | [personal@example.com](mailto:your-email@example.com)
+> [rambhadrakumar23@gmail.com](mailto:rambhadrakumar23@gmail.com)
 
 ⚡ **Fun fact:**  
 > The first AI winter lasted nearly a decade — but we're living through the *hottest* AI spring ever!
@@ -52,12 +51,12 @@ I don't just use models; I build **agents**, design **RAG pipelines**, and exper
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rambhadra-kumar&show_icons=true&theme=radical&hide=contribs,prs" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rambhadra-kumar&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rambhadrakumar5050&show_icons=true&theme=radical&hide=contribs,prs" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rambhadrakumar5050&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rambhadra-kumar&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rambhadrakumar5050&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="45%" />
 </p>
 
 ---
@@ -84,10 +83,10 @@ I don't just use models; I build **agents**, design **RAG pipelines**, and exper
   <a href="https://twitter.com/rambhadra_ai" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:rambhadra@iiitvadodara.ac.in">
+  <a href="mailto:rambhadrakumar23@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Rambhadra-kumar">
+  <a href="https://github.com/Rambhadrakumar5050">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
