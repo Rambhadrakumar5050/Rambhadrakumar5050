@@ -9,7 +9,18 @@
 </p>
 
 ---
+### 📈 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rambhadrakumar5050&show_icons=true&theme=radical&hide=contribs,prs" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rambhadrakumar5050&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rambhadrakumar5050&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="45%" />
+</p>
+
+---
 ### 🧠 About Me
 
 I'm a **3rd-year CSE undergraduate** at **IIIT Vadodara**, deeply fascinated by the architecture of intelligence — from classical ML to the latest in **Generative AI**.  
@@ -48,18 +59,7 @@ I don't just use models; I build **agents**, design **RAG pipelines**, and exper
 
 ---
 
-### 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rambhadrakumar5050&show_icons=true&theme=radical&hide=contribs,prs" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rambhadrakumar5050&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rambhadrakumar5050&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="45%" />
-</p>
-
----
 
 ### 📝 Latest Blog Posts (Coming Soon)
 
