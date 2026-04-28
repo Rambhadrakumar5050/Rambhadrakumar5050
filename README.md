@@ -33,7 +33,7 @@ I don't just use models; I build **agents**, design **RAG pipelines**, and exper
 > Multi-agent frameworks (AutoGen, CrewAI) · Fine-tuning SLMs · Vector DB optimization
 
 💬 **Ask me about:**  
-> Machine Learning · Deep Learning · LLM Fine-tuning · RAG · Agentic Workflows · GenAI
+> Machine Learning · Deep Learning · LLM Fine-tuning · RAG · Agentic  Workflows · GenAI
 
 📫 **How to reach me:**  
 > [rambhadrakumar23@gmail.com](mailto:rambhadrakumar23@gmail.com)
