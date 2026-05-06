@@ -30,7 +30,7 @@ I don't just use models; I build **agents**, design **RAG pipelines**, and exper
 > An advanced **Agentic RAG system** for research paper synthesis (LangChain + LlamaIndex)
 
 🌱 **Currently diving deeper into:**  
-> Multi-agent frameworks (AutoGen, CrewAI) · Fine-tuning SLMs · Vector DB optimization
+> Multi-agent frameworks (AutoGen, CrewAI) · Fine-tuning SLMs · Vector DB  optimization
 
 💬 **Ask me about:**  
 > Machine Learning · Deep Learning · LLM Fine-tuning · RAG · Agentic  Workflows · GenAI
