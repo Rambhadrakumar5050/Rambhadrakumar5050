@@ -12,16 +12,16 @@
 ## GitHub Analytics
 
 <p align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rambhadrakumar5050&show_icons=true&theme=tokyonight&icon_color=7F00FF&title_color=BB86FC&text_color=C9D1D9&bg_color=0D1117&border_color=4B0082"/>
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rambhadrakumar5050&theme=tokyonight&ring=7F00FF&fire=BB86FC&currStreakLabel=BB86FC&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E&background=0D1117&border=4B0082"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rambhadrakumar5050&show_icons=true&theme=tokyonight&icon_color=7F00FF&title_color=BB86FC&text_color=C9D1D9&bg_color=000000&border_color=4B0082"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=Rambhadrakumar5050&theme=tokyonight&ring=7F00FF&fire=BB86FC&currStreakLabel=BB86FC&background=000000&border=4B0082"/>
 
 </p>
 
 <p align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhadrakumar5050&layout=compact&theme=tokyonight&title_color=BB86FC&text_color=C9D1D9&bg_color=0D1117&border_color=4B0082"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rambhadrakumar5050&layout=compact&theme=tokyonight&title_color=BB86FC&text_color=C9D1D9&bg_color=000000&border_color=4B0082"/>
 
 </p>
 
