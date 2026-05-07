@@ -9,15 +9,20 @@
 </p>
 
 ---
-### 📈 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rambhadrakumar5050&show_icons=true&theme=radical&hide=contribs,prs" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rambhadrakumar5050&theme=radical" alt="GitHub Streak" width="48%" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhadrakumar5050&show_icons=true&theme=tokyonight&icon_color=7F00FF&title_color=BB86FC&text_color=C9D1D9&bg_color=0D1117&border_color=4B0082"/>
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhadrakumar5050&theme=tokyonight&ring=7F00FF&fire=BB86FC&currStreakLabel=BB86FC&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E&background=0D1117&border=4B0082"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rambhadrakumar5050&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="45%" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhadrakumar5050&layout=compact&theme=tokyonight&title_color=BB86FC&text_color=C9D1D9&bg_color=0D1117&border_color=4B0082"/>
+
 </p>
 
 ---
