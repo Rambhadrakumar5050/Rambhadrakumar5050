@@ -51,7 +51,7 @@ I don't just use models; I build **agents**, design **RAG pipelines**, and exper
 ### 🛠️ Tech Stack & Tools
 
 **AI/ML Core**  
-`Python` · `TensorFlow` · `PyTorch` · `Scikit-learn` · `Pandas` · `NumPy`
+`Python` · `TensorFlow` · `Scikit-learn` · `Pandas` · `NumPy`
 
 **Generative AI & LLMs**  
 `LangChain` · `LlamaIndex` · `Hugging Face` · `OpenAI API` · `Ollama` · `Streamlit` · `Gradio`
