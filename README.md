@@ -44,7 +44,7 @@ I don't just use models; I build **agents**, design **RAG pipelines**, and exper
 > [rambhadrakumar23@gmail.com](mailto:rambhadrakumar23@gmail.com)
 
 ⚡ **Fun fact:**  
-> The first AI winter lasted nearly a decade — but we're living through the *hottest* AI spring ever!
+> The first AI winter lasted nearly a decade — but  we're living through the *hottest* AI spring ever!
 
 ---
 
