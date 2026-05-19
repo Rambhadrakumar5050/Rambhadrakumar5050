@@ -32,7 +32,7 @@ I'm a **3rd-year CSE undergraduate** at **IIIT Vadodara**, deeply fascinated by 
 I don't just use models; I build **agents**, design **RAG pipelines**, and experiment with **LLM orchestration**.
 
 🔭 **Currently working on:**  
-> An advanced **Agentic RAG system**  for research paper synthesis  (LangChain + LlamaIndex)
+> An advanced **Agentic RAG system**  for  research paper synthesis  (LangChain + LlamaIndex)
 
 🌱 **Currently diving deeper into:**  
 > Multi-agent frameworks (AutoGen, CrewAI) · Fine-tuning SLMs · Vector DB  optimization
