@@ -26,7 +26,7 @@
 </p>
 
 ---
-### 🧠 About Me
+### 🧠About Me
 
 I'm a **3rd-year CSE undergraduate** at **IIIT Vadodara**, deeply fascinated by the architecture of intelligence — from classical ML to the latest in **Generative AI**.  
 I don't just use models; I build **agents**, design **RAG pipelines**, and experiment with **LLM orchestration**.
