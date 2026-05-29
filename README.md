@@ -34,7 +34,7 @@ I don't just use models; I build **agents**, design **RAG pipelines**, and exper
 🔭 **Currently working on:**  
 > An advanced **Agentic RAG system**  for  research paper synthesis  (LangChain + LlamaIndex)
 
-🌱 **Currently diving deeper into:**  
+🌱 **Currently diving deeper  into:**  
 > Multi-agent frameworks (AutoGen, CrewAI) · Fine-tuning SLMs · Vector DB  optimization
 
 💬 **Ask me about:**  
