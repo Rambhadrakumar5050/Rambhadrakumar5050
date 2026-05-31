@@ -71,7 +71,7 @@ I don't just use models; I build **agents**, design **RAG pipelines**, and exper
 <!-- BLOG-POST-LIST:START -->
 - 🧠 *Why RAG > Fine-tuning for most enterprise QA systems* (draft)
 - 🤖 *Building a research assistant with CrewAI + GPT-4*
-- 📚 *From LLM to LMM:  What agents change about reasoning*
+- 📚 *From LLM to LMM :  What agents change about reasoning*
 <!-- BLOG-POST-LIST:END -->
 
 👉 I write about **LLM systems, agentic design patterns, and real-world GenAI pitfalls** —  
