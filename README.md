@@ -100,6 +100,6 @@ I don't just use models; I build **agents**, design **RAG pipelines**, and exper
 
 ### 🧩 A Final Note
 
-> *"The best way to predict the future of AI is to build it — one agent, one RAG chain, one model at a time."*
+> *"The best way to predict the future of  AI is to build it — one agent, one RAG chain, one model at a time."*
 
 ⭐ **Star** the repos you find useful — and let's build the agentic era together.
