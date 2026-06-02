@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rambhadra Kumar</h1>
+<h1 align="center">Hi 👋,  I'm Rambhadra Kumar</h1>
 <h3 align="center">Building Cognitive Systems | LLM · RAG · Agentic AI · GenAI</h3>
 
 <p align="center">
