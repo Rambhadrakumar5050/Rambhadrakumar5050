@@ -56,7 +56,7 @@ I don't just use models; I build **agents**, design **RAG pipelines**, and exper
 **Generative AI & LLMs**  
 `LangChain` · `LlamaIndex` · `Hugging Face` · `OpenAI API` · `Ollama` · `Streamlit` · `Gradio`
 
-**RAG & Agentic Stack**  
+** RAG & Agentic Stack **  
 `Chroma` · `Pinecone` · `FAISS` · `AutoGen` · `CrewAI` · `Semantic Kernel`
 
 **Dev & MLOps**  
