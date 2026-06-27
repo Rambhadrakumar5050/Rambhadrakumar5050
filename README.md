@@ -43,6 +43,8 @@ I don't just use models; I build **agents**, design **RAG pipelines**, and exper
 📫 **How to reach me:**  
 > [rambhadrakumar23@gmail.com](mailto:rambhadrakumar23@gmail.com)
 
+Portfolio Link  -  https://ml-craft-lab.lovable.app/
+
 ⚡ **Fun fact:**  
 > The first AI winter lasted nearly a decade — but  we're living through the *hottest* AI spring ever!
 
