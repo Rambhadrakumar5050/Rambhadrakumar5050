@@ -67,7 +67,6 @@ Portfolio Link  -  https://ml-craft-lab.lovable.app/
 ---
 
 
-
 ### 📝 Latest Blog Posts (Coming Soon)
 
 <!-- BLOG-POST-LIST:START -->
@@ -104,4 +103,4 @@ Portfolio Link  -  https://ml-craft-lab.lovable.app/
 
 > *"The best way to predict the future of  AI is to build it — one agent, one RAG chain, one model at a time."*
 
-⭐ **Star** the repos you find useful — and let's build the agentic era together.
+⭐ **Star**  let's build the agentic era together.
