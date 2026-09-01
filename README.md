@@ -52,7 +52,7 @@ Portfolio Link  -  https://ml-craft-lab.lovable.app/
 
 ### 🛠️ Tech Stack & Tools
 
-**AI/ML Core**  
+**AI / ML Core**  
 `Python` · `TensorFlow` · `Scikit-learn` · `Pandas` · `NumPy`
 
 **Generative AI & LLMs**  
